@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description>Testcase1</description>
-   <name>Testcase1</name>
+   <name>TTA_Home</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>c32e952b-effd-4947-9ad3-2edcbc2e4359</testCaseGuid>
